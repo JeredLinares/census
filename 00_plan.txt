@@ -1,0 +1,31 @@
+Project Plan
+Pull data from the Census API
+
+
+Stage 1: Planning
+Goal
+	Pull data on age distributions
+Design 
+	Database -> mongoDB
+		[] structure 
+	Program -> python3
+		[] connect to Census API
+		[] pull data
+		[] add data to database
+
+Stage 2: Framework
+	Database
+		[] Setup -> 
+
+
+Stage 3: Testing
+
+
+
+
+
+CensusAPI
+	Dataset: 
+
+
+
